@@ -9,7 +9,7 @@ This project implements a real-time stock market data processing system using **
 We are going to use different technologies such as Python, Amazon Web Services (AWS), S3 (Simple Storage Service), Apache Kafka, Glue Crawler, Glue Catalog, EC2, Athena, and SQL.
 
 ## **Dataset Used**
-https://github.com/Chaimaaorg/Real-Time-Stock-Analysis/blob/main/stockData.csv
+[Dataset Link](https://github.com/Chaimaaorg/Real-Time-Stock-Analysis/blob/main/indexProcessed.csv)
 
 ## **Setup Instructions**
 This guide provides installation and configuration steps for both **Windows** and **Linux (EC2 instances)**.
